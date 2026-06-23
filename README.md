@@ -8,13 +8,11 @@
 
 <p>
   📍 Murcia, España
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_the_Region_of_Murcia.svg" width="20" style="vertical-align:middle" alt="Murcia" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg" width="20" style="vertical-align:middle" alt="España" />
 </p>
 
-<p>
-  Desarrollador en formación, enfocado en la creación de aplicaciones web modernas, APIs REST y proyectos completos con tecnologías actuales.
-  <br>
-  Me interesa especialmente el desarrollo frontend, el backend, las bases de datos y la construcción de proyectos bien estructurados.
-</p>
+</div>
 
 ---
 
