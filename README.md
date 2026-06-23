@@ -8,7 +8,7 @@
 
 <p>
   📍 Murcia, España
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_the_Region_of_Murcia.svg" width="20" style="vertical-align:middle" alt="Murcia" />
+  <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Flag_of_the_Region_of_Murcia.svg" width="20" style="vertical-align:middle" alt="Murcia" />
   <img src="https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg" width="20" style="vertical-align:middle" alt="España" />
 </p>
 
