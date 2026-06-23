@@ -19,7 +19,7 @@
 <br>
 
 <a href="https://www.linkedin.com/in/rayhdev/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Rayahdev-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Rayhdev-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
 </a>
 
 <a href="mailto:mario.hm.laboral@gmail.com">
