@@ -54,10 +54,11 @@
 
 <p>Herramientas y tecnologías que utilizo en mis proyectos</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,python,xml" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,python" />
 
 <br><br>
 
+<img src="https://img.shields.io/badge/XML-005FAD?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
 
 </div>
