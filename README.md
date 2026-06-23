@@ -18,13 +18,10 @@
 
 ---
 
-## 🎓 Formación
+### 🎓 Formación Académica
 
-* **Desarrollo de Aplicaciones Multiplataforma**
-  Formación enfocada en programación, bases de datos, desarrollo frontend, backend y despliegue de aplicaciones.
-
-* **Master en Desarrollo FullStack**
-  Profundizando en tecnologías modernas como React, Node.js, Express, MongoDB, Git y GitHub.
+* **Desarrollo de Aplicaciones Multiplataforma (DAM)** | Prometeo by ThePower
+* **Máster Full Stack Developer** | Prometeo by ThePower
 
 ---
 
