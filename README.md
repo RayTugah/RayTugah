@@ -16,26 +16,6 @@
   Me interesa especialmente el desarrollo frontend, el backend, las bases de datos y la construcción de proyectos bien estructurados.
 </p>
 
-<br>
-
-<a href="https://www.linkedin.com/in/rayhdev/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Rayhdev-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-</a>
-
-<a href="mailto:mario.hm.laboral@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contacto-red?style=for-the-badge&logo=gmail" alt="Gmail" />
-</a>
-
-<a href="https://rayh.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-rayh.dev-green?style=for-the-badge&logo=vercel" alt="Portfolio" />
-</a>
-
-<a href="https://github.com/RayTugah" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-RayTugah-black?style=for-the-badge&logo=github" alt="GitHub" />
-</a>
-
-</div>
-
 ---
 
 ## 🎓 Formación
@@ -142,7 +122,7 @@ Aplicación frontend desarrollada con **React**, enfocada en la creación de una
 </p>
 
 <a href="https://www.linkedin.com/in/rayhdev/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Rayahdev-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Rayhdev-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
 </a>
 
 <a href="mailto:mario.hm.laboral@gmail.com">
